@@ -53,3 +53,12 @@ p {
 .footer-pages {
   padding: 120px 0;
 }
+button,
+input {
+  font-family: inherit;
+}
+fieldset {
+  padding: 0;
+  margin: 0;
+  border: none;
+}
